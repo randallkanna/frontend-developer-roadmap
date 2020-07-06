@@ -69,7 +69,7 @@ week 2
 
 todo description here
 
-### Selecting an Editor Editor
+### Selecting an Editor
 
 An editor is where you are going to type in your code. It’s sort of like the equivalent of Microsoft Word to a writer.
 
