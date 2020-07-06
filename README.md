@@ -1,7 +1,5 @@
 # Frontend Developer Roadmap
 
-# Frontend Developer Roadmap
-
 ## About
 
 Learning how to code is hard. Knowing where to start is even harder.
