@@ -11,7 +11,7 @@ Read this awesome [article](https://generalassemb.ly/blog/website-is-like-a-hous
 
 If that articles doesn't speak to you, here's another you can [read](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/).
 
-Reading articles like this when I started out really helped me to clarify the differences between HTMl, CSS and JS.
+Reading articles like this when I started out really helped me to clarify the differences between HTML, CSS and JS.
 
 ### HTML
 
